@@ -6,3 +6,6 @@ An end-to-end Business Intelligence project focused on analyzing sales performan
 - Monitor Total Sales, Average Sales, and Item Ratings.
 - Analyze performance across Outlet Types, Item Categories, Fat Content, and Locations.
 - Identify top-selling products and underperforming areas to drive informed decision-making.
+
+## Dataset Used
+- <a href="https://github.com/shivanshi89/Blinkit-analysis/blob/main/BlinkIT%20Grocery%20Data%20excel.xlsx">Dataset</a>

@@ -43,3 +43,22 @@ An end-to-end Business Intelligence project focused on analyzing sales performan
 - Line charts for historical sales trends
 - Donut and pie charts for fat content and outlet segmentation
 - Slicers for dynamic filtering by outlet type, size, and item type
+
+## 📊 SQL
+- 🗃️ Utilized SQL for data extraction, cleaning and transformation, enabling clean modeling and deeper querying into outlet and item-level sales behavior.
+- Wrote queries to find KPI values and other business requirements.
+
+## 📊 Python
+- 🧹 Imported, cleaned and preprocessed data using Python (Pandas, NumPy) to ensure quality inputs.
+- Wrote scripts to get output based on the chart requirements and KPIs.
+- Built various charts using Matplotlib.
+
+## 📈 Key Insights
+- 💰 $1.20M+ in total sales recorded across all outlet types.
+- 🛍️ 8523 items sold, with high-performing categories like snacks, dairy, and drinks.
+- 🏪 Tier 3 and high-size outlets outperformed in terms of both revenue and average rating.
+- 📊 Low fat items drove higher average sales compared to regular fat items.
+
+## Dashboard
+
+![Screenshot (52)](https://github.com/user-attachments/assets/647996b0-1964-4f9d-b422-ee969ea57568)

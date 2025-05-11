@@ -62,3 +62,6 @@ An end-to-end Business Intelligence project focused on analyzing sales performan
 ## Dashboard
 
 ![Screenshot (52)](https://github.com/user-attachments/assets/647996b0-1964-4f9d-b422-ee969ea57568)
+
+## OneDrive File of the Project (PowerBi, SQL & Python)
+- <a href="https://1drv.ms/f/c/f6a9d08b0faa302a/En33Taj5S19Mog10nVc7IpkBLuFGNa4gonFYbJubHIaH5A?e=PoAxkX">OneDrive Link</a>

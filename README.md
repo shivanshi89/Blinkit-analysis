@@ -25,9 +25,11 @@ An end-to-end Business Intelligence project focused on analyzing sales performan
 **1. Data Collection & Understanding**
 - Sourced Blinkit’s item-level sales dataset containing outlet info, item metadata, and sales metrics.
 - Defined business questions to guide dashboard logic and visualizations.
+  
 **2. Data Cleaning & Preparation**
 - Cleaned raw data using SQL queries to handle missing values, duplicates, and formatting inconsistencies.
 - Used Python for additional preprocessing and statistical exploration.
+  
 **3. Data Modeling**
 - Imported data into Power BI and created a robust data model using:
 - Fact and dimension tables
